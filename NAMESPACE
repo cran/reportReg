@@ -1,4 +1,5 @@
 exportPattern("^[[:alpha:]]+")
 importFrom("stats", "coef", "confint.default", "pt","rnorm")
 importFrom("utils", "data")
+importFrom("nlme", "intervals")
 
